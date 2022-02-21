@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lalith Sharma
+- 👋 Hi, I’m Lalith Sharma
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Android development, Flutter, Competitive programming
 - 💞️ I’m looking to collaborate on Native android apps, Flutter
