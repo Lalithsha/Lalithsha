@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lalith Sharma
 - 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Android development, Flutter, Competitive programming
+- 🌱 I’m currently learning Full stack development , Competitive programming
 - 💞️ I’m looking to collaborate on Native android apps, Flutter
 - 📫 How to reach me on gmail, Id: lalithsharma.mech@gmail.com
 
