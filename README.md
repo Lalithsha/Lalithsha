@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalithsha&label=Profile%20views&color=0e75b6&style=flat" alt="lalithsha" /> </p>
 
-- 🔭 I’m currently working on **Travelling-AI**
+- 🔭 I’m currently working on **Post Wizards**
 
-- 🌱 I’m currently learning **Mongodb, Typescript**
+- 🌱 I’m currently learning **Mongodb, Typescript, DSA**
 
 - 👨‍💻 All of my projects are available at [coming_soon....](coming_soon....)
 
