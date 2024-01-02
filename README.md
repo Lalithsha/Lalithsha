@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Lalith Sharma</h1>
-<h3 align="center">A curious full stack developer from India. Building web and android apps</h3>
+<h3 align="center">A curious full stack developer from India. Building the web and android apps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalithsha&label=Profile%20views&color=0e75b6&style=flat" alt="lalithsha" /> </p>
 
-- 🔭 I’m currently working on **Post Wizards**
+- 🔭 I’m currently working on **Travelling-AI**
 
-- 🌱 I’m currently learning **Mongodb, Typescript, DSA**
+- 🌱 I’m currently learning **Mongodb, Typescript**
 
-- 👨‍💻 All of my projects are available at [coming_soon....](coming_soon....)
+- 👨‍💻 All of my projects are available at [https://lalith-sharma.vercel.app/](https://lalith-sharma.vercel.app/)
 
 - 💬 Ask me about **Express, Mongodb, Javascript, Data structures and algorithms**
 
 - 📫 How to reach me **lalithsharma.mech@gmail.com**
 
-- 📄 Know about my experiences [coming_soon...](coming_soon...)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1eVTQSbeMReIYcxAKSfGXpVHwYbwuVqc0/view?usp=sharing](https://drive.google.com/file/d/1eVTQSbeMReIYcxAKSfGXpVHwYbwuVqc0/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
