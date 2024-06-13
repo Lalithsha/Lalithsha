@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **lalithsharma.mech@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1eVTQSbeMReIYcxAKSfGXpVHwYbwuVqc0/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1FOvOT0gbr0qHFc-Ei-2sEbX8rBhm9ypx/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
