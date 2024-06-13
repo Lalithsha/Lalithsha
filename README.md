@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Travelling-AI**
 
-- 🌱 I’m currently learning **Mongodb, Typescript**
+- 🌱 I’m currently learning **MongoDB, Typescript**
 
 - 👨‍💻 All of my projects are available at [https://lalith-sharma.vercel.app/](https://lalith-sharma.vercel.app/)
 
