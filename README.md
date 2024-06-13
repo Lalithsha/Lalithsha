@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://lalith-sharma.vercel.app/](https://lalith-sharma.vercel.app/)
 
-- 💬 Ask me about **Express, Mongodb, Javascript, Data structures and algorithms**
+- 💬 Ask me about **Express, MongoDB, Javascript, DSA**
 
 - 📫 How to reach me **lalithsharma.mech@gmail.com**
 
