@@ -23,7 +23,7 @@
 <a href="https://stackoverflow.com/users/15598616/lalith-sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15598616/lalith-sharma" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/lalith01sharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="lalith01sharma" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/lalithsharma989" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lalithsharma989" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/user/lalithsharma989/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/lalithsharma989/profile" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/lalithsharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/lalithsharma989/profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
