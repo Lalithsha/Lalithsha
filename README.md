@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalithsha&label=Profile%20views&color=0e75b6&style=flat" alt="lalithsha" /> </p>
 
-- 🔭 I’m currently working on **Travelling-AI**
+- 🔭 I’m currently working on **Travel-it-AI**
 
 - 🌱 I’m currently learning **MongoDB, Typescript**
 
