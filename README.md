@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalithsha&label=Profile%20views&color=0e75b6&style=flat" alt="lalithsha" /> </p>
 
-- 🔭 I’m currently working on **Travel-it-AI**
+- 🔭 I’m currently working on **Draw-it-app**
 
-- 🌱 I’m currently learning **MongoDB, Typescript**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://lalith-sharma.vercel.app/](https://lalith-sharma.vercel.app/)
 
